@@ -6,7 +6,6 @@ Primeiros passos com a linguagem Python
 
 E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despesas Hospitalares
 
-```markdown
 * Analise exploratória de dados
 * Tratando Outliers
 * Tratando valores missing
