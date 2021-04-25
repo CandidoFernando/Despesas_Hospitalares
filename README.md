@@ -6,7 +6,7 @@ Primeiros passos com a linguagem Python
 *Tratando Outliers
 *Tratando valores missing
 
-# Modelo de Machine Learning - Regressão
+## Modelo de Machine Learning - Regressão
 -Regressão Linear
 -Árvore ded Decisão
 -Random Forest
