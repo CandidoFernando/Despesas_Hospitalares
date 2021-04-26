@@ -1,6 +1,6 @@
 
-# Python
-Primeiros passos com a linguagem Python
+# Projeto Previsão de despesas hospitalares usando Python
+
 
 ### [Projeto 1 de Python](https://github.com/CandidoFernando/python)
 
