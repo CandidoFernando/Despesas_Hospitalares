@@ -2,7 +2,7 @@
 # Projeto Previsão de despesas hospitalares usando Python
 
 
-### [Projeto 1 de Python](https://github.com/CandidoFernando/python)
+### [Projeto Python](https://github.com/CandidoFernando/python)
 
 E projeto trata-se de um modelo de Regressão, no qual procuraremos prever despesas Hospitalares
 
